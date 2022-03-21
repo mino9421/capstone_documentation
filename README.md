@@ -2,7 +2,7 @@
 
 ## file names guide
 
-###	Project Summary - project_summary.docx
+*	Project Summary - project_summary.docx
 ###	Project Vision - project_vision.docx
 ###	Project/Business Requirements - tech_requirement/docx
 ###	Project Plan - project_plan.docx
